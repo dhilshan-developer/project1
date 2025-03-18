@@ -1,0 +1,52 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.bg-cont{
+    background-color: rgb(244, 242, 240);
+    height: 100%;
+    background-size: cover;
+
+
+}
+nav{
+   background-color: rgb(187, 225, 250);
+    
+}
+ul {
+    display: inline;
+    position: relative;
+    left: 40%;
+
+}
+
+
+a{
+    display: inline;
+    color: rgb(24, 209, 39);
+    text-decoration: none;
+    border-width: 0px;
+    
+    font-weight:bold ;
+}
+.content{
+    background-color: white;
+    border-radius: 10px;
+    height: 300px;
+    width:250px;
+    font-family: "roboto";
+
+}
+img{
+    height: 150px;
+    width:250px ;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+.head{
+    font-family:"fantasy";
+    font-weight: bold;
+}
+.head1{
+    color: rgb(149, 149, 150);
+}
