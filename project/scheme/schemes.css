@@ -1,0 +1,46 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.bg-cont{
+    
+    height: 100vh;
+
+
+}
+nav{
+   
+    
+}
+ul {
+    display: inline;
+    position: relative;
+    left: 50%;
+
+}
+
+
+a{
+    display: inline;
+    color: rgb(24, 209, 39);
+    text-decoration: none;
+    border-width: 0px;
+    
+    font-weight:bold ;
+}
+.content{
+    background-color: white;
+    border-radius: 10px;
+    height: 300px;
+    width:200px;
+    font-family: "roboto";
+}
+img{
+    height: 150px;
+    width:200px ;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+.head{
+    
+}
